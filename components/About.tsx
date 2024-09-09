@@ -102,12 +102,14 @@ export function About() {
       >
         <FaGithub size={40} />
       </a>
-      <Button 
-      borderRadius="5.75rem"
-      className="bg-black dark:bg-slate-900 text-white hover:bg-gray-700"
+      <a 
+        href="https://drive.google.com/uc?export=download&id=11t_O4WJ5lqg0nw1AGVhDZZ08xeuYY-6j" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="bg-transparent text-white border border-white hover:bg-gray-700 hover:text-white rounded-full px-4 py-2 inline-block text-center"
       >
-      <a href="https://drive.google.com/file/d/11t_O4WJ5lqg0nw1AGVhDZZ08xeuYY-6j/view?usp=sharing" target="_blank">Resume</a>
-    </Button>
+        Resume
+      </a>
       <a
         href="https://www.linkedin.com/in/aishwarya-h-iyer/" // Replace with your LinkedIn profile link
         target="_blank"
