@@ -106,7 +106,7 @@ export function About() {
         href="https://drive.google.com/uc?export=download&id=11t_O4WJ5lqg0nw1AGVhDZZ08xeuYY-6j" 
         target="_blank" 
         rel="noopener noreferrer"
-        className="bg-transparent text-white border border-white hover:bg-gray-700 hover:text-white rounded-full px-4 py-2 inline-block text-center"
+        className="text-sm bg-transparent text-white border border-white hover:bg-gray-700 hover:text-white rounded-full px-4 py-2 inline-block text-center"
       >
         Resume
       </a>
